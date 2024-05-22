@@ -1,6 +1,11 @@
-## Hello world!
+# Hello world! 👋
 
-I'm Yasamin, a frontend developer passionate about crafting beautiful and user-friendly web experiences. My expertise lies in translating designs into high-quality code and ensuring that applications are accessible, performant, and delightful to use.
+I'm **Yasamin** 👨‍💻, a frontend developer passionate about crafting beautiful and user-friendly web experiences. My expertise lies in translating designs into high-quality code and ensuring that applications are accessible, performant, and delightful to use.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem;" align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YasaminAlizadeh&show_icons=true&theme=ambient_gradient" ></a>
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=YasaminAlizadeh&theme=ambient-gradient" style="height: 100%;"></a>
+</div>
 
 ## About Me
 
@@ -8,48 +13,81 @@ I'm Yasamin, a frontend developer passionate about crafting beautiful and user-f
 - **🎨 Design Enthusiast** who enjoys working closely with designers to bring creative visions to life.
 - **🚀 Continuous Learner** always exploring new technologies and best practices to improve my craft.
 
-## Technologies I Work With
+## Skills
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Rafa-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Rafa-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+**Programming**
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 0.25rem; justify-content: center; max-width: 75%;">
+    <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" />
+  </div>
 </div>
 
-### Languages & Frameworks
+<br />
 
-- HTML, CSS, JavaScript, TypeScript
-- React, Redux, Context API, React Native, Next.js
-- Bootstrap, Sass, Tailwind
+**Languages**
 
-### Development Skills
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 0.25rem; justify-content: center; max-width: 55%;">
+    <img align="right" src="https://img.shields.io/badge/Farsi-Native-red?labelColor=3C486B&color=DFDFDE&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/Arabic-Native-green?labelColor=4D869C&color=DFDFDE&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/English-Professional Proficiency-blue?labelColor=3C486B&color=DFDFDE&style=flat-square" />
+    <img align="right" src="https://img.shields.io/badge/German-Elementary-yellow?labelColor=4D869C&color=DFDFDE&style=flat-square" />
+  </div>
+</div>
 
-- Responsive Design
-- RESTful API Integration
-- Unit Testing
-- Performance Optimization
-- SEO
+## Experience
 
-### Tools & Techniques
+- 👨‍💻 **Frontend Developer**\
+  📆 2021 - present\
+  📍 **Freelance** - Worldwide
 
-- Git, Package Managers (npm/yarn)
-- React Router
-- UI/UX Principles
-- Cross‑Platform Compatibility
+## Education
 
+- 📖 **Computer Engineering**\
+  📆 2018 - 2022\
+  📍 **Shahid Rajaei Teacher Training University** - Tehran, Iran
+
+<br />
+
+<!-- <details>
+  <summary>📦 Projects </summary>
+
+
+| Name                                                                                                      | A short summary                                 | Visit                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Pixelated: Pixel Editor](https://github.com/YasaminAlizadeh/pixelated) | A React-based pixel editor offering drawing, layering, color selection, import/export, and more. | [![Static Badge](https://img.shields.io/badge/Link-violet?style=for-the-badge)](https://pixelated-editor.vercel.app/)
+| [Axies: NFT Marketplace](https://github.com/YasaminAlizadeh/axies-nft-marketplace)                 | Built with HTML, SASS, and JavaScript, featuring a landing page, login page, single-item page, and captivating styles.  | [![Static Badge](https://img.shields.io/badge/Link-violet?style=for-the-badge)](https://yasaminalizadeh.github.io/axies-nft-marketplace/)|
+
+</details> -->
 
 ## Get In Touch
 
-<div> 
-  <a href = "mailto:itsYAsaminAlizadeh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasamin-alizadeh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align='center'>
+  <a href = "mailto:itsYAsaminAlizadeh@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/yasamin-alizadeh" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>  &nbsp;
+  <a href="https://codepen.io/Yasamin-Alizadeh" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>  &nbsp; 
+</p>
 
 Feel free to explore my repositories and reach out if you want to collaborate or just chat about tech and design
