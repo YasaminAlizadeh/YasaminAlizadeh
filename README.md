@@ -50,7 +50,7 @@ I love a good puzzle. For me, the real joy of front-end development is in tackli
 ## ✨ Featured Projects
 
 ### 👾 Portfolio OS
-<a href="https://yasamin.codes/">
+<a href="https://yasamin-os.ir/">
   <img src="https://i.postimg.cc/7Ybt5zDD/Screenshot-2025-09-21-232455.png" alt="Portfolio OS Screenshot"/>
 </a>
 
@@ -87,7 +87,7 @@ I love a good puzzle. For me, the real joy of front-end development is in tackli
 ---
 
 ### 🎨 Pixelated: Pixel Art Editor
-<a href="https://pixelated-editor.vercel.app/">
+<a href="https://pixelated.yasamin-os.ir">
   <img src="https://i.postimg.cc/d3bDVc2z/1.png" alt="Pixelated Screenshot"/>
 </a>
 
